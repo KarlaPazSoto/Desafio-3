@@ -1,0 +1,118 @@
+h1{
+    margin: 0px;
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+    font-style: normal;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 73px;
+    color: #fff;
+    background-color: #000;
+}
+header{
+    background-image: url(../img/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-position-y: 73px ;
+    background-size: cover;
+    height: 810px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 106px;
+    height: 348px;
+    color: #fff;
+    background-color: #000;
+}
+.mainText{
+    width: 475px;
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: normal;
+}
+.mainImg{
+    width: 399px;
+    height: 237px;
+}
+.img{
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+}
+.caracteristicas{
+    color: #fff;
+    background-color: #1e1a13;
+    height: 348px;
+}
+h2{
+    text-align: center;
+    margin: 0px;
+    padding-top: 75px;
+    padding-bottom: 50px;
+    font-family: "Raleway", sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    font-style: normal;
+}
+.iconos{
+    display: flex;
+    justify-content: space-evenly;    
+}
+p{
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    font-style: normal;
+}
+.iconUno{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.iconDos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.iconTres{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.imagenes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    height: 348px;
+    background-color: #000;
+}
+.imagen{
+    width: 316px;
+    height: 202px;
+}
+img{
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+}
+h3{
+    margin: 0px;
+    padding: 39px;
+    font-size: 24px;
+    color: #fff;
+    background-color: #1e1a13;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
